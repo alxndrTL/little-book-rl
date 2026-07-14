@@ -18,5 +18,5 @@ You can print one for youself [here](https://www.amazon.fr/Little-Book-Reinforce
 Versions of the book : 
 - V1 (June 2026)
 
-The book is distributed under a non-commercial Creative Commons license.
+The book is distributed under a non-commercial Creative Commons license (CC BY-SA 4.0).
 
